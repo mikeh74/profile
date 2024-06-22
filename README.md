@@ -1,2 +1,3 @@
-# profile
-Repo holding profile pages
+# Michel Horrocks Developer profile
+
+Personal profile application.
